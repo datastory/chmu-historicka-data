@@ -2,6 +2,8 @@
 
 Záznamy [Českého hydrometeorologického ústavu](http://portal.chmi.cz/), poskytnuté na základě žádosti dle [zákona o právu na informace o životním prostředí](https://www.zakonyprolidi.cz/cs/1998-123).
 
+Souřadnice jednotlivých stanic možno získat pomocí [tohoto skriptu](https://github.com/kalab-oto/chmu-poloha-stanic).
+
 Na vyřizování žádosti se, kromě ústavu, podílelo i ministerstvo životního prostředí, Městský soud v Praze ([5 A 128/2015](http://nssoud.cz/files/EVIDENCNI_LIST/2015/5A_128_2015_49_20180725141621_prevedeno.pdf)) a Nejvyšší správní soud ([5 As 231/2018](http://nssoud.cz/files/EVIDENCNI_LIST/2015/5A_128_2015_49_20180725141621_prevedeno.pdf)).
 
 Pro získání podrobnějších (či jiných) dat se obracejte na ústav ve smyslu [zákona č. 123/1998 Sb.](https://www.zakonyprolidi.cz/cs/1998-123).

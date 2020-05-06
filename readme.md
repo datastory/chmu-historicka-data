@@ -8,6 +8,8 @@ Na vyřizování žádosti se, kromě ústavu, podílelo i ministerstvo životn�
 
 Pro získání podrobnějších (či jiných) dat se obracejte na ústav ve smyslu [zákona č. 123/1998 Sb.](https://www.zakonyprolidi.cz/cs/1998-123).
 
+**NEŽ ŽÁDOST PODÁTE, PODÍVEJTE SE, ZDA NEŽÁDÁTE O [JIŽ ZVEŘEJNĚNÁ DATA](http://portal.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb.)**
+
 Žádost může (bez záruky!) vypadat třeba takto, poslat ji můžete i e-mailem, ústav má na vyřízení 30 dní:
 
 ```
